@@ -57,10 +57,10 @@ Here is the folder structure of this app.
       |--- banner.tsx
       |--- contact.tsx
       |--- experience.tsx
-      |--- feedbacks.tsx
       |--- footer.tsx
       |--- hero.tsx
       |--- index.ts
+      |--- leetcode.tsx
       |--- loader.tsx
       |--- navbar.tsx
       |--- tech.tsx
@@ -88,6 +88,7 @@ Here is the folder structure of this app.
   |- .gitignore
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
   |- pnpm-lock.yaml
   |- pnpm-workspace.yaml
